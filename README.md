@@ -7,14 +7,14 @@ Practice building an ETL pipeline using Python, Pandas and either Python diction
 
 ### Requirements
 
-*Python*
-*Pandas*
-*NumPy*
-*ETL_Mini_Project_Starter_Code.ipynb* 
-*crowdfunding.xlsx* 
-*contacts.xlsx* 
-*json*
-*datetime*
+*Python*,
+*Pandas*,
+*NumPy*,
+*ETL_Mini_Project_Starter_Code.ipynb*, 
+*crowdfunding.xlsx*, 
+*contacts.xlsx*, 
+*json*,
+*datetime*,
 
 ### Create the Category and Subcategory DataFrames
 
